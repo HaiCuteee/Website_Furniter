@@ -1,0 +1,33 @@
+.imgCategory{
+    width: 200px;
+    height: 200px;
+}
+.cardCategory a{
+    color: black;
+}
+
+.cardCategory:hover a{
+    text-decoration: none;
+    color: gray;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+button.filter-button.active, button.filter-button:hover {
+    border-bottom: 2px solid #DEAD6F;
+}
+button.filter-button {
+    letter-spacing: 0.02125rem;
+    border: none;
+    border-bottom: 2px solid #D9D9D8;
+    background: transparent;
+    text-transform: uppercase;
+    font-size: 1.0625rem;
+    transition: all 0.3s ease-in;
+}

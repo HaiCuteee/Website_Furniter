@@ -1,0 +1,345 @@
+.Home{
+    position: relative !important;
+}
+.top{
+    background-color: #3b5d50;
+    padding-top: 100px;
+}
+.top_left{
+    color: white;
+    padding-top: 30px;
+}
+.top_left h1{
+    font-size:50px;
+    font-weight: bold;
+}
+.top_left p{
+    padding-top:20px;
+    font-size:15px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.top_left button{
+    border-radius: 40px;
+    padding: 10px 30px 10px 30px;
+}
+.btn1{
+    font-weight: 600 !important;
+    margin-right: 10px;
+}
+.btn2{
+    background-color: #3b5d50 ;
+    font-weight: 600 !important;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: white;
+}
+.btn2:hover{
+    border: 1px solid white;
+}
+.top_right{
+    background-image: url("https://themewagon.github.io/furni/images/dots-light.svg");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.top_right img{
+    width: 100%;
+    height: 100%;
+}
+
+/* end heeader homepage */
+
+/* body homepage */
+
+.Main{
+    width: 100%;
+    margin:100px auto;
+
+}
+.home_product{
+    width: 100%;
+
+}
+.explore{
+    border-radius: 30px;
+    padding: 10px 25px;  
+}
+.explore b{
+    font-size:17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.p b{
+    font-size:x-large;
+}
+
+
+.main_right{
+    text-align: center;
+    text-decoration: none !important;
+    display: block;
+    position: relative;
+    padding-bottom: 50px;
+    cursor: pointer;
+    color: black;
+    transition: 0.5s;
+}
+
+.main_right:hover{
+    color: black;
+}
+.main_right:hover:before {
+    height: 70%;
+}
+.main_right:before {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    content: "";
+    background: #dce5e4;
+    height: 0%;
+    z-index: -1;
+    border-radius: 10px;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
+
+.main_right:hover .icon_cross{
+    opacity: 1;
+    bottom: -5px;
+    margin-bottom: -17.5px;
+}
+.icon_cross{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    background: #363636;
+    bottom: 15px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+
+    border-radius: 50%;
+    opacity: 0;
+    transition: 0.5s;
+}
+.icon_cross img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.home_product{
+    transition: 0.5s !important;
+    position: relative;
+    bottom: 30px;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+
+}
+
+.main_right:hover .home_product{
+    position: relative;
+    bottom: 60px;
+    filter: drop-shadow(5px 5px 15px rgb(106, 106, 106));
+}
+
+/* end list product */
+
+
+
+.why_choose_us{
+
+    width:100%;
+    padding: 7rem 0;
+}
+
+.choose_us{
+    margin-top: 100px;
+
+}
+.section-title p{
+    margin-bottom:1rem;
+}
+.my-5{
+    margin-top:3rem !important;
+    margin-bottom:3rem !important;
+}
+.feature{
+    margin-bottom:30px;
+}
+.icon{
+    display: inline-block;
+    position: relative;
+    margin-bottom: 20px;
+}
+.feature h3 {
+    font-size: 14px;
+    color: #2f2f2f;
+}
+.feature p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #6a6a6a;
+}
+
+
+.col-lg-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+}
+
+.img_wrap{
+    position: relative;
+}
+.img_wrap:before {
+    position: absolute;
+    content: "";
+    width: 255px;
+    height: 217px;
+    background-image: url(../../Images/dots-yellow.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    -webkit-transform: translate(-40%, -40%);
+    -ms-transform: translate(-40%, -40%);
+    transform: translate(-40%, -40%);
+    z-index: -1;
+}
+.img_wrap img{
+    border-radius:20px;
+}
+
+.img_fluid{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+
+/* end why-choose-us */
+
+.we_helper{
+    padding: 7rem 0;
+}
+
+.imgs_grids{
+    display: grid;
+    grid-template-columns: repeat(27,1fr);
+    position: relative;
+}
+.imgs_grids:before {
+    position: absolute;
+    content: "";
+    width: 255px;
+    height: 217px;
+    background-image: url(../../Images/dots-green.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-transform: translate(-40%, -40%);
+    -ms-transform: translate(-40%, -40%);
+    transform: translate(-40%, -40%);
+    z-index: -1;
+}
+.grids{
+    position: relative;
+}
+.grid_1{
+    grid-column: 1 / span 18;
+    grid-row: 1 / span 27;
+}
+.grid_2{
+    grid-column: 19 / span 27;
+    grid-row: 1 / span 5;
+    padding-left:20px;
+}
+.grid_3{
+    grid-column: 14 / span 16;
+    grid-row: 6 / span 27;
+    padding-top: 20px;
+}
+.grid_1 img, .grid_2 img, .grid_3 img {
+    border-radius:20px;
+    max-width:100%;
+    vertical-align: middle;
+}
+
+
+/* end we help */
+
+
+.section-title {
+    color: #2f2f2f;
+}
+.section-title{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.custom-list{
+    width: 100%;
+}
+.custom-list li {
+    display: inline-block;
+    width: calc(50% - 20px);
+    margin-bottom: 12px;
+    line-height: 1.5;
+    position: relative;
+    padding-left: 20px;
+    margin-left: 10px;
+}
+.custom-list li:before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 2px solid #3b5d50;
+    position: absolute;
+    left: 0;
+    top: 8px;
+}
+
+.thumbnail {
+    margin-right: 10px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 120px;
+    flex: 0 0 120px;
+    position: relative;
+}
+.pt-3 h3 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #2f2f2f;
+}
+.pt-3 p {
+    line-height: 1.4;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #2f2f2f;
+}
+.pt-3 p a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 16px;
+}
+.pt-3 p a:hover{
+    color: #5e5d5d;
+}
+
+
+
+/* end popular product */
+
+
+
+
+
+

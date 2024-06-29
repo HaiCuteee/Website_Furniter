@@ -1,0 +1,50 @@
+
+.menu_main{
+    justify-content: space-around;
+    height: auto;
+    background-color: #3b5d50;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+.menu_page a{
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.menu_right{
+    display: flex;
+    padding-top: 10px;
+}
+
+.menu_page ul li{
+    display: inline-block;   
+    padding: 0px 20px 0px 20px;
+}
+.menu_page ul li a:hover{
+    cursor: pointer;
+    color: white !important;
+    text-decoration: none;
+}
+.menu_login_cart{
+    padding-left: 25px;
+}
+.menu_login_cart a:hover{
+    cursor: pointer;
+}
+.menu_login_cart i{
+    padding-right:20px;
+    color: white;
+}
+.menu_login_cart span{
+    background: crimson;
+    border-radius: 20px;
+    color: white;
+    position: absolute;
+    top:-10px;
+    right: -10px;
+    font-size: 10px;
+    padding: 5px;
+}

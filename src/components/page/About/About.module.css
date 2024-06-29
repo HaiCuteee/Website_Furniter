@@ -1,0 +1,128 @@
+.About{
+    background-color: #3b5d50;
+    padding-top: 100px;
+}
+.about_left{
+    color: white;
+    padding-top: 30px;
+}
+.about_left h1{
+    font-size:50px;
+    font-weight: bold;
+}
+.about_left p{
+    padding-top:20px;
+    font-size:15px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.about_left button{
+    border-radius: 40px;
+    padding: 10px 30px 10px 30px;
+}
+.btn1{
+    font-weight: 600 !important;
+    margin-right: 10px;
+}
+.btn2{
+    background-color: #3b5d50 ;
+    font-weight: 600 !important;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: white;
+}
+.btn2:hover{
+    border: 1px solid white;
+}
+.about_right{
+    background-image: url("https://themewagon.github.io/furni/images/dots-light.svg");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.about_right img{
+    width: 100%;
+    height: 100%;
+}
+/* :end */
+
+
+.why_choose_us{
+
+    width:100%;
+    padding: 7rem 0;
+}
+
+.choose_us{
+    margin-top: 100px;
+
+}
+.section-title p{
+    margin-bottom:1rem;
+}
+.my-5{
+    margin-top:3rem !important;
+    margin-bottom:3rem !important;
+}
+.feature{
+    margin-bottom:30px;
+}
+.icon{
+    display: inline-block;
+    position: relative;
+    margin-bottom: 20px;
+}
+.feature h3 {
+    font-size: 14px;
+    color: #2f2f2f;
+}
+.feature p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #6a6a6a;
+}
+
+
+.col-lg-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+}
+
+.img_wrap{
+    position: relative;
+}
+.img_wrap:before {
+    position: absolute;
+    content: "";
+    width: 255px;
+    height: 217px;
+    background-image: url(../../../Images/dots-yellow.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    -webkit-transform: translate(-40%, -40%);
+    -ms-transform: translate(-40%, -40%);
+    transform: translate(-40%, -40%);
+    z-index: -1;
+}
+.img_wrap img{
+    border-radius:20px;
+}
+
+.img_fluid{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+/* end  */
+
+.untree_co-section {
+    padding: 7rem 0;
+}
+.section-title {
+    color: #2f2f2f;
+}
+
+.nameourteam a {
+    text-decoration: none;
+    color: #2f2f2f;
+
+}

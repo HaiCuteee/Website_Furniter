@@ -1,0 +1,48 @@
+.box-search1 {
+    width: 320px;
+    position: absolute;
+    background: white;
+    top: 10;
+    left: 0;
+    z-index: 20;
+}
+
+.img-search {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+
+}
+
+.form-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid black;
+}
+
+.p-result {
+
+    font-size: 15px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.fontname {
+    font-family: "fontname" !important;
+    font-size: 18px;
+}
+
+.linkitem:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.linkitem {
+    color: black;
+}
+
+.form-item:hover {
+    background-color:#3b5d50;
+    color: white;
+}

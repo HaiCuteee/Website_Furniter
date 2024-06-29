@@ -1,0 +1,165 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Table"
+    },
+    {
+      "id": 2,
+      "name": "Chair"
+    },
+    {
+      "id": 3,
+      "name": "Wardrobe"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Ergonomic Chair",
+      "description": "Ghế văn phòng Ergonomic  - Ergonomic Office Chair được thiết kế vừa vặn nhất với cơ thể, từng chi tiết đều được tạo nên để hỗ trợ tối ưu nhất cho người sử dụng. Với những tính năng vượt trội cũng kiểu dáng sang trọng, hiện đại phù hợp với nội thất của nhiều văn phòng, gia đình; ghế Ergonomic hiện đang là sản phẩm bảo vệ sức khỏe tốt nhất cho người làm việc văn phòng.",
+      "price": 20,
+      "color": "Nâu",
+      "category_id": 2,
+      "image": "https://static.vecteezy.com/system/resources/previews/022/449/441/original/office-chair-isolated-on-transparent-free-png.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 2,
+      "name": "Nordic chair",
+      "description": "Shell Lounge Chair vừa có thể làm giường ngủ cũng như nằm dài, ngả lưng và chỗ ngồi trong các phòng sinh hoạt chung. Có thể coi đây là một dạng nội thất đa chức năng. Thiết kế 2 modun tạo thành, modun 1 với phần tựa lưng cá tính và chắc chắn, modun 2 được ví như “chiếc bánh” khổng lồ với đường nét thiết kế lạ mắt và vô cùng gợi cảm. Được bao bọc bởi lớp da Microfiber có khả năng chống cháy – chống xước, không nổ da chống nước – chịu lực tốt, vải Bồ Đào Nha có các phương pháp xử lý đặc biệt không chứa hóa chất và dung môi giúp tạo ra chống trầy xước cao, độ bền cực cao. Với Shell Lounge Chair việc tạo nên một góc nghỉ ngơi nhỏ thanh lịch trở nên thật dễ dàng, gia chủ có thể kết hợp hài hòa cùng các mẫu sofa khác và những decor nhỏ xinh.",
+      "price": 30,
+      "color": "Xanh đậm",
+      "category_id": 2,
+      "image": "https://themewagon.github.io/furni/images/product-1.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 3,
+      "name": "Modern Plastic Chair",
+      "description": "với thiết kế đường nét tối giản nhưng vẫn đảm bảo đầy đủ về thẩm mỹ và tính năng. 🏷 Chất liệu Acrylic chắc chắn, bền bỉ. 🏷 Thiết kế mang tính thẩm mỹ, tối giản có thể kết hợp trang trí nhà cửa, coffee, studio,..",
+      "price": 10,
+      "color": "Đen",
+      "category_id": 2,
+      "image": "https://images.creativefabrica.com/products/thumbnails/2023/09/04/l8SyXQNF9/2UvYDFmZvRyChhmvLU3Z2cycFln.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 4,
+      "name": "Dining table",
+      "description": "Bàn ăn AConcept lấy cảm hứng từ Châu Âu nhấn mạnh sự đơn giản trong thiết kế và tối đa hóa công năng. Chọn từ một chiếc ghế đẩu bốn chân hoặc một chiếc ghế để chân đối xứng ..",
+      "price": 45,
+      "color": "Đen",
+      "category_id": 1,
+      "image": "https://www.jamessalmondfurniture.com.au/wp-content/uploads/2016/09/Lalique-Dining-Table-570x570.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 5,
+      "name": "Folding Outdoor Chair",
+      "description": "Ghế ngoài trời gấp gọn này là lựa chọn lý tưởng cho những buổi dã ngoại, cắm trại hoặc picnic. Thiết kế gấp gọn và nhẹ nhàng giúp dễ dàng di chuyển và bố trí mọi nơi mà bạn muốn. Chất liệu chắc chắn và bền bỉ kết hợp với thiết kế thoải mái mang lại trải nghiệm ngồi thư giãn và dễ chịu. Ghế còn có thể được điều chỉnh để phù hợp với nhiều người dùng và cung cấp sự ổn định đáng tin cậy trên mọi bề mặt đất.",
+      "price": 30,
+      "color": "Xanh đậm",
+      "category_id": 2,
+      "image": "https://www.jamessalmondfurniture.com.au/wp-content/uploads/2016/09/Chair3-570x570.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 6,
+      "name": "Console table",
+      "description": "Bàn console này mang lại sự sang trọng và tiện ích cho không gian nhà của bạn. Với một thiết kế đơn giản và hiện đại, bàn này phản ánh phong cách và sự tinh tế. Không chỉ là một mảnh trang trí đẹp mắt, nó còn cung cấp không gian lưu trữ tiện lợi cho các vật dụng hàng ngày như khóa, túi xách và chìa khóa. Với chất liệu chất lượng cao và độ bền, bàn console này sẽ là một phần không thể thiếu trong nội thất của bạn.",
+      "price": 25,
+      "color": "Hồng pastel",
+      "category_id": 1,
+      "image": "https://www.jamessalmondfurniture.com.au/wp-content/uploads/2016/12/0001ctt-570x570.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 7,
+      "name": "Industrial Bar Stool",
+      "description": "Ghế bar công nghiệp này không chỉ mang lại sự thoải mái mà còn thể hiện phong cách độc đáo và hiện đại cho không gian của bạn. Thiết kế sáng tạo với chất liệu kim loại và gỗ tự nhiên tạo nên một vẻ ngoài độc đáo và cuốn hút. Được thiết kế với một cách tiếp cận chắc chắn và ổn định, ghế này là sự lựa chọn hoàn hảo cho không gian quầy bar hoặc khu vực ăn uống của bạn.",
+      "price": 15,
+      "color": "Xám",
+      "category_id": 2,
+      "image": "https://themewagon.github.io/furni/images/product-2.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 8,
+      "name": "Bar table",
+      "description": "Bàn bar này là một điểm nhấn tuyệt vời cho không gian bar của bạn. Thiết kế hiện đại và sự kết hợp của chất liệu gỗ và kim loại tạo ra một vẻ đẹp độc đáo và sang trọng. Không chỉ là một mảnh trang trí nổi bật, bàn còn cung cấp không gian lưu trữ tiện lợi cho đồ uống và phụ kiện bar.",
+      "price": 35,
+      "color": "Trắng kem",
+      "category_id": 1,
+      "image": "https://www.jamessalmondfurniture.com.au/wp-content/uploads/2016/09/New-York-Side-Table-570x570.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 9,
+      "name": "Varia table",
+      "description": "Varia Bedside Table là một loại bàn đầu giường hiện đại và tiện ích, được thiết kế với phong cách tinh tế và chức năng đa dạng. Loại bàn này không chỉ là một món đồ nội thất đẹp mắt mà còn đáp ứng nhu cầu sử dụng hàng ngày của người dùng.",
+      "price": 50,
+      "color": "Xanh rêu",
+      "category_id": 1,
+      "image": "https://www.jamessalmondfurniture.com.au/wp-content/uploads/2016/09/Varia-bedside-table-dark-570x570.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 10,
+      "name": "Folding table",
+      "description": "Bàn gấp này là lựa chọn hoàn hảo cho các buổi tiệc ngoài trời hoặc sử dụng trong nhà khi bạn cần một không gian bổ sung. Thiết kế gấp gọn và dễ dàng di chuyển giúp bạn dễ dàng sắp xếp và lưu trữ khi không sử dụng.",
+      "price": 20,
+      "color": "Vàng nghệ",
+      "category_id": 1,
+      "image": "https://png.pngtree.com/png-clipart/20230930/original/pngtree-wooden-table-3d-illustration-png-image_13018907.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    },
+    {
+      "id": 11,
+      "name": "Side table",
+      "description": "Bàn phụ này là một phần không thể thiếu cho bất kỳ không gian nào trong nhà. Với thiết kế đơn giản và tiện lợi, nó là nơi lý tưởng để đặt đồ uống, sách và các vật dụng cá nhân khác trong khi bạn thư giãn trên ghế sofa hoặc giường.",
+      "price": 40,
+      "color": "Đỏ",
+      "category_id": 1,
+      "image": "https://www.jamessalmondfurniture.com.au/wp-content/uploads/2016/09/Mandarin-Coffee-Table-sideJSF_3056_CoffeeTable-570x570.png",
+      "shipping": "Vận chuyển bàn, ghế toàn quốc. Liên hệ 0989.681997 Địa chỉ: Ngõ 100 Trần Đại Nghĩa - Phòng 101A15 - Phường Đồng Tâm - Quận HBT - HN"
+    }
+  ],
+  "user": [
+    {
+      "name": "HaiCute",
+      "phone": "0389935957",
+      "email": "Hai@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "HaiXinhGai",
+      "phone": "0987218885",
+      "email": "Haixinh@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "demo",
+      "phone": "0918476262",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "phone": "0645813268",
+      "email": "HaiCute@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Nguyen Van Chung",
+      "phone": "0902334343",
+      "email": "Nguyenvanchung@gmail.com",
+      "password": "123456",
+      "id": 5
+    }
+  ]
+}
